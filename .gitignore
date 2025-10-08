@@ -1,0 +1,32 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Power BI Files
+*.pbix.zip
+*.pbit
+*.pbixproj
+
+# Temporary/Log files
+*.log
+*.tmp
+*.temp
+
+# IDE-specific files (e.g., from VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*~
